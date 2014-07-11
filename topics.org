@@ -1,0 +1,4 @@
+* Potential Clojure topics
+** [[https://github.com/Prismatic/schema][Prismatic's schema]] - Benjamin C
+** Om - Chis J
+** 
