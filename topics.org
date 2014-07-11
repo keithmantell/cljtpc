@@ -1,4 +1,10 @@
-* Potential Clojure topics
-** [[https://github.com/Prismatic/schema][Prismatic's schema]] - Benjamin C
+* Keith Clojure notebook:  https://www.evernote.com/pub/keithmantell/clojure
+* Collaboration
+** Git hub https://github.com/keithmantell/cljtpc
+*** Please add a public ssh key, because:
+*** syme - Instant collaboration on GitHub projects: https://github.com/technomancy/syme
+* Potential Clojure topics (Github )
+** Ideas: http://adambard.com/blog/greatest-clojure-hits/
 ** Om - Chis J
-** 
+** [[https://github.com/Prismatic/schema][Prismatic's schema]] - Benjamin C
+** emacs, Clojure, Literate Programming, async sample - Keith
