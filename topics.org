@@ -8,3 +8,6 @@
 ** Om - Chis J
 ** [[https://github.com/Prismatic/schema][Prismatic's schema]] - Benjamin C
 ** emacs, Clojure, Literate Programming, async sample - Keith
+** Test frameworks: clojure -tes, midje, expectations
+** Hoplon
+** 
