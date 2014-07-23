@@ -12,3 +12,4 @@
 ** Test frameworks: clojure -tes, midje, expectations
 ** Hoplon
 ** [[https://github.com/clojure/core.typed][core.typed]]
+** [[https://github.com/Engelberg/instaparse][instaparse]]
