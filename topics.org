@@ -13,3 +13,4 @@
 ** Hoplon
 ** [[https://github.com/clojure/core.typed][core.typed]]
 ** [[https://github.com/Engelberg/instaparse][instaparse]]
+** Develop a Snakes program in ClojureScript using React/OM/Reagent???
