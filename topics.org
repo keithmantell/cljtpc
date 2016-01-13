@@ -16,3 +16,4 @@
 ** Develop a Snakes program in ClojureScript using React/OM/Reagent???
 ** Develop a elevator simulator: https://github.com/mshang/python-elevator-challenge/blob/master/README.md
 ** Build the bus tracker web page
+** have a look at Elm (not Clojure of course, but I hear lots of good things about it)
