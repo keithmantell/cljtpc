@@ -14,3 +14,5 @@
 ** [[https://github.com/clojure/core.typed][core.typed]]
 ** [[https://github.com/Engelberg/instaparse][instaparse]]
 ** Develop a Snakes program in ClojureScript using React/OM/Reagent???
+** Develop a elevator simulator: https://github.com/mshang/python-elevator-challenge/blob/master/README.md
+** Build the bus tracker web page
